@@ -3,10 +3,6 @@
   "version": "0.3.5",
   "name": "Helsinki Regional Transport",
   "documentation": "https://github.com/anand-p-r/hslhrt-hass-custom",
-  "requirements": [
-    "python_graphql_client==0.4.3"
-  ],
-  "dependencies": [],
   "codeowners": [
     "@anand-p-r"
   ],

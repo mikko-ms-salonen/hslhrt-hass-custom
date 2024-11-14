@@ -1,11 +1,11 @@
 {
   "domain": "hslhrt",
-  "version": "0.3.5",
   "name": "Helsinki Regional Transport",
-  "documentation": "https://github.com/anand-p-r/hslhrt-hass-custom",
-  "codeowners": [
-    "@anand-p-r"
-  ],
-  "issue_tracker": "https://github.com/anand-p-r/hslhrt-hass-custom/issues",
+  "codeowners": [],
+  "dependencies": [],
+  "documentation": "https://www.example.com",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "requirements": [],
   "config_flow": true
 }

@@ -1,9 +1,3 @@
 {
   "name": "Helsinki Regional Transport",
-  "content_in_root": false,
-  "country": "FI",
-  "domains": ["hslhrt"],
-  "persistent_directory": "custom_components",
-  "zip_release": false,
-  "render_readme": true,
 }

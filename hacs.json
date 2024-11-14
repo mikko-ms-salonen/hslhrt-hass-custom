@@ -3,7 +3,6 @@
   "content_in_root": false,
   "country": "FI",
   "domains": ["hslhrt"],
-  "homeassistant": "0.118.1",
   "persistent_directory": "custom_components",
   "zip_release": false,
   "render_readme": true,

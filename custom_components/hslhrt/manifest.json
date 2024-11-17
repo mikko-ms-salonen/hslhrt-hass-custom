@@ -4,8 +4,10 @@
   "codeowners": [],
   "dependencies": [],
   "documentation": "https://www.example.com",
+  "issue_tracker": "https://www.example.com",
   "integration_type": "service",
   "iot_class": "cloud_polling",
   "requirements": [],
   "config_flow": true
+  "version": 1.0
 }

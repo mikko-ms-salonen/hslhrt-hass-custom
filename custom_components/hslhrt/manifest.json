@@ -7,7 +7,9 @@
   "issue_tracker": "https://www.example.com",
   "integration_type": "service",
   "iot_class": "cloud_polling",
-  "requirements": [],
+  "requirements": [
+    "python_graphql_client==0.4.3"
+  ],
   "config_flow": true
   "version": 1.0
 }
